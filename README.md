@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Abhijeet878/dsa-cpp/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/Abhijeet878/dsa-cpp/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
@@ -16,5 +17,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Abhijeet878/dsa-cpp/tree/master/0242-valid-anagram) |
 | [1288-remove-covered-intervals](https://github.com/Abhijeet878/dsa-cpp/tree/master/1288-remove-covered-intervals) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Abhijeet878/dsa-cpp/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
