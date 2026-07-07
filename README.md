@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Abhijeet878/dsa-cpp/tree/master/0171-excel-sheet-column-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abhijeet878/dsa-cpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
 | ------- |
