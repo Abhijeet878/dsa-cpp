@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/Abhijeet878/dsa-cpp/tree/master/0414-third-maximum-number) |
 | [1288-remove-covered-intervals](https://github.com/Abhijeet878/dsa-cpp/tree/master/1288-remove-covered-intervals) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Abhijeet878/dsa-cpp/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/Abhijeet878/dsa-cpp/tree/master/0414-third-maximum-number) |
 | [1288-remove-covered-intervals](https://github.com/Abhijeet878/dsa-cpp/tree/master/1288-remove-covered-intervals) |
 ## Hash Table
 |  |
