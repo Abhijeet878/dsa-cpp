@@ -4,19 +4,13 @@ public:
 
         sort(nums.begin(),nums.end()) ;
 
-        vector<int>result ;
+  nums.erase(unique(nums.begin(),nums.end()),nums.end()) ;
 
-     for(int x : nums){
+  int n = nums.size() ;
 
-        if(result.empty() || result.back()!=x){
-            result.push_back(x) ;
-        }
-     }
-     int n = result.size() ;
+  if(nums.size()<3)
+  return nums[n-1] ;
 
-     if(n<3)
-     return result[n-1] ;
-
-     return result[n-3] ;
+  return nums[n-3] ;
     }
 };
