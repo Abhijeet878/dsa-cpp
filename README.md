@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhijeet878/dsa-cpp/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Abhijeet878/dsa-cpp/tree/master/0455-assign-cookies) |
+| [0643-maximum-average-subarray-i](https://github.com/Abhijeet878/dsa-cpp/tree/master/0643-maximum-average-subarray-i) |
 | [1288-remove-covered-intervals](https://github.com/Abhijeet878/dsa-cpp/tree/master/1288-remove-covered-intervals) |
 ## Sorting
 |  |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Abhijeet878/dsa-cpp/tree/master/0455-assign-cookies) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Abhijeet878/dsa-cpp/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
