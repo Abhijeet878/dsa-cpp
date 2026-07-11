@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Abhijeet878/dsa-cpp/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Abhijeet878/dsa-cpp/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Abhijeet878/dsa-cpp/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Abhijeet878/dsa-cpp/tree/master/0389-find-the-difference) |
 ## Array
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Abhijeet878/dsa-cpp/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/Abhijeet878/dsa-cpp/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Abhijeet878/dsa-cpp/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhijeet878/dsa-cpp/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Abhijeet878/dsa-cpp/tree/master/0455-assign-cookies) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Abhijeet878/dsa-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Abhijeet878/dsa-cpp/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/Abhijeet878/dsa-cpp/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhijeet878/dsa-cpp/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/Abhijeet878/dsa-cpp/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Abhijeet878/dsa-cpp/tree/master/0594-longest-harmonious-subsequence) |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Abhijeet878/dsa-cpp/tree/master/0561-array-partition) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Abhijeet878/dsa-cpp/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
