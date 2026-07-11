@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Abhijeet878/dsa-cpp/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhijeet878/dsa-cpp/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0658-find-k-closest-elements) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Abhijeet878/dsa-cpp/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1288-remove-covered-intervals](https://github.com/Abhijeet878/dsa-cpp/tree/master/1288-remove-covered-intervals) |
 ## Sorting
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhijeet878/dsa-cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/Abhijeet878/dsa-cpp/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0658-find-k-closest-elements) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Abhijeet878/dsa-cpp/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1288-remove-covered-intervals](https://github.com/Abhijeet878/dsa-cpp/tree/master/1288-remove-covered-intervals) |
 ## Hash Table
 |  |
