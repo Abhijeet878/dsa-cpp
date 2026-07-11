@@ -15,7 +15,10 @@ public:
         }
         
         sort(result.begin(),result.end(),[](pair<char,int>i,pair<char,int>j){
-            return i.second > j.second ;
+            if(i.second==j.second)
+            return i.second<j.second ;
+
+            return i.second> j.second ;
         }) ;
 
         string ans2 ;
