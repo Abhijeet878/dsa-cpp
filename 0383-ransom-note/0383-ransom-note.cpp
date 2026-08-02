@@ -5,10 +5,10 @@ public:
         int n = ransomNote.size() ;
 
         int m = magazine.size() ;
-        bool result ;
+    
 
      for(int i =0 ;i<n ;i++){
-     result = false ;
+    bool  result = false ;
 
         for(int j =0 ; j<m ;j++){
 
