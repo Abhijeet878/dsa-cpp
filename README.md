@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhijeet878/dsa-cpp/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Abhijeet878/dsa-cpp/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/Abhijeet878/dsa-cpp/tree/master/0456-132-pattern) |
 | [0525-contiguous-array](https://github.com/Abhijeet878/dsa-cpp/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/Abhijeet878/dsa-cpp/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhijeet878/dsa-cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Abhijeet878/dsa-cpp/tree/master/0456-132-pattern) |
 | [0658-find-k-closest-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0658-find-k-closest-elements) |
 ## Prefix Sum
 |  |
@@ -120,10 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Abhijeet878/dsa-cpp/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhijeet878/dsa-cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Abhijeet878/dsa-cpp/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhijeet878/dsa-cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Counting Sort
 |  |
@@ -149,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhijeet878/dsa-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Abhijeet878/dsa-cpp/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
