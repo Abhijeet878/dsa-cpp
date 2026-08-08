@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Abhijeet878/dsa-cpp/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Abhijeet878/dsa-cpp/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Abhijeet878/dsa-cpp/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1288-remove-covered-intervals](https://github.com/Abhijeet878/dsa-cpp/tree/master/1288-remove-covered-intervals) |
 ## Sorting
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Abhijeet878/dsa-cpp/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Abhijeet878/dsa-cpp/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Abhijeet878/dsa-cpp/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1288-remove-covered-intervals](https://github.com/Abhijeet878/dsa-cpp/tree/master/1288-remove-covered-intervals) |
 ## Hash Table
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhijeet878/dsa-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0658-find-k-closest-elements) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Abhijeet878/dsa-cpp/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Abhijeet878/dsa-cpp/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhijeet878/dsa-cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0658-find-k-closest-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0658-find-k-closest-elements) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Abhijeet878/dsa-cpp/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Greedy
 |  |
 | ------- |
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/Abhijeet878/dsa-cpp/tree/master/0456-132-pattern) |
 | [0658-find-k-closest-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0658-find-k-closest-elements) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Abhijeet878/dsa-cpp/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Prefix Sum
 |  |
 | ------- |
