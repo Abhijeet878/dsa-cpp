@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Abhijeet878/dsa-cpp/tree/master/0171-excel-sheet-column-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Abhijeet878/dsa-cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3516-find-closest-person](https://github.com/Abhijeet878/dsa-cpp/tree/master/3516-find-closest-person) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abhijeet878/dsa-cpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Abhijeet878/dsa-cpp/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Abhijeet878/dsa-cpp/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Abhijeet878/dsa-cpp/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Abhijeet878/dsa-cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhijeet878/dsa-cpp/tree/master/0451-sort-characters-by-frequency) |
 ## Array
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Abhijeet878/dsa-cpp/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Abhijeet878/dsa-cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## String Matching
 |  |
 | ------- |
