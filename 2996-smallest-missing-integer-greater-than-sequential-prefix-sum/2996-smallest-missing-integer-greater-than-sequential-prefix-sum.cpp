@@ -25,9 +25,10 @@ while(true){
     
     }
 
-    if(!found)
+    if(!found){
 
         return sum ;
+    }
     
     sum ++ ;
 
