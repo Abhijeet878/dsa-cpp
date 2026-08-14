@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Abhijeet878/dsa-cpp/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Abhijeet878/dsa-cpp/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0888-fair-candy-swap](https://github.com/Abhijeet878/dsa-cpp/tree/master/0888-fair-candy-swap) |
 | [1288-remove-covered-intervals](https://github.com/Abhijeet878/dsa-cpp/tree/master/1288-remove-covered-intervals) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhijeet878/dsa-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Abhijeet878/dsa-cpp/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Abhijeet878/dsa-cpp/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0888-fair-candy-swap](https://github.com/Abhijeet878/dsa-cpp/tree/master/0888-fair-candy-swap) |
 | [1288-remove-covered-intervals](https://github.com/Abhijeet878/dsa-cpp/tree/master/1288-remove-covered-intervals) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhijeet878/dsa-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Abhijeet878/dsa-cpp/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Abhijeet878/dsa-cpp/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Abhijeet878/dsa-cpp/tree/master/0594-longest-harmonious-subsequence) |
+| [0888-fair-candy-swap](https://github.com/Abhijeet878/dsa-cpp/tree/master/0888-fair-candy-swap) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhijeet878/dsa-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Divide and Conquer
 |  |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Abhijeet878/dsa-cpp/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Abhijeet878/dsa-cpp/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0888-fair-candy-swap](https://github.com/Abhijeet878/dsa-cpp/tree/master/0888-fair-candy-swap) |
 ## Prefix Sum
 |  |
 | ------- |
