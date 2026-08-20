@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Abhijeet878/dsa-cpp/tree/master/0888-fair-candy-swap) |
 | [1288-remove-covered-intervals](https://github.com/Abhijeet878/dsa-cpp/tree/master/1288-remove-covered-intervals) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhijeet878/dsa-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhijeet878/dsa-cpp/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sorting
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Abhijeet878/dsa-cpp/tree/master/0412-fizz-buzz) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhijeet878/dsa-cpp/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Interactive
 |  |
 | ------- |
