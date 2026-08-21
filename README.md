@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Abhijeet878/dsa-cpp/tree/master/0729-my-calendar-i) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Abhijeet878/dsa-cpp/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Abhijeet878/dsa-cpp/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0825-friends-of-appropriate-ages](https://github.com/Abhijeet878/dsa-cpp/tree/master/0825-friends-of-appropriate-ages) |
 | [0881-boats-to-save-people](https://github.com/Abhijeet878/dsa-cpp/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/Abhijeet878/dsa-cpp/tree/master/0888-fair-candy-swap) |
 | [1288-remove-covered-intervals](https://github.com/Abhijeet878/dsa-cpp/tree/master/1288-remove-covered-intervals) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Abhijeet878/dsa-cpp/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Abhijeet878/dsa-cpp/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0825-friends-of-appropriate-ages](https://github.com/Abhijeet878/dsa-cpp/tree/master/0825-friends-of-appropriate-ages) |
 | [0881-boats-to-save-people](https://github.com/Abhijeet878/dsa-cpp/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/Abhijeet878/dsa-cpp/tree/master/0888-fair-candy-swap) |
 | [1288-remove-covered-intervals](https://github.com/Abhijeet878/dsa-cpp/tree/master/1288-remove-covered-intervals) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhijeet878/dsa-cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0658-find-k-closest-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Abhijeet878/dsa-cpp/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0825-friends-of-appropriate-ages](https://github.com/Abhijeet878/dsa-cpp/tree/master/0825-friends-of-appropriate-ages) |
 | [0881-boats-to-save-people](https://github.com/Abhijeet878/dsa-cpp/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/Abhijeet878/dsa-cpp/tree/master/0729-my-calendar-i) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Abhijeet878/dsa-cpp/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0825-friends-of-appropriate-ages](https://github.com/Abhijeet878/dsa-cpp/tree/master/0825-friends-of-appropriate-ages) |
 | [0888-fair-candy-swap](https://github.com/Abhijeet878/dsa-cpp/tree/master/0888-fair-candy-swap) |
 ## Prefix Sum
 |  |
