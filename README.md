@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Abhijeet878/dsa-cpp/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhijeet878/dsa-cpp/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0658-find-k-closest-elements) |
+| [0729-my-calendar-i](https://github.com/Abhijeet878/dsa-cpp/tree/master/0729-my-calendar-i) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Abhijeet878/dsa-cpp/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Abhijeet878/dsa-cpp/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0881-boats-to-save-people](https://github.com/Abhijeet878/dsa-cpp/tree/master/0881-boats-to-save-people) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Abhijeet878/dsa-cpp/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhijeet878/dsa-cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0658-find-k-closest-elements) |
+| [0729-my-calendar-i](https://github.com/Abhijeet878/dsa-cpp/tree/master/0729-my-calendar-i) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Abhijeet878/dsa-cpp/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0888-fair-candy-swap](https://github.com/Abhijeet878/dsa-cpp/tree/master/0888-fair-candy-swap) |
 ## Prefix Sum
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Abhijeet878/dsa-cpp/tree/master/0456-132-pattern) |
+| [0729-my-calendar-i](https://github.com/Abhijeet878/dsa-cpp/tree/master/0729-my-calendar-i) |
 ## Simulation
 |  |
 | ------- |
@@ -201,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Abhijeet878/dsa-cpp/tree/master/0881-boats-to-save-people) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Abhijeet878/dsa-cpp/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Abhijeet878/dsa-cpp/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
