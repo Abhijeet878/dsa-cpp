@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Abhijeet878/dsa-cpp/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3516-find-closest-person](https://github.com/Abhijeet878/dsa-cpp/tree/master/3516-find-closest-person) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Abhijeet878/dsa-cpp/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abhijeet878/dsa-cpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
