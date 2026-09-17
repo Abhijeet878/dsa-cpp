@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Abhijeet878/dsa-cpp/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Abhijeet878/dsa-cpp/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Abhijeet878/dsa-cpp/tree/master/0054-spiral-matrix) |
 | [0219-contains-duplicate-ii](https://github.com/Abhijeet878/dsa-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Abhijeet878/dsa-cpp/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0347-top-k-frequent-elements) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Abhijeet878/dsa-cpp/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Abhijeet878/dsa-cpp/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhijeet878/dsa-cpp/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Interactive
@@ -251,4 +253,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Abhijeet878/dsa-cpp/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Abhijeet878/dsa-cpp/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
