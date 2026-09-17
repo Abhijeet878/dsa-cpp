@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Abhijeet878/dsa-cpp/tree/master/0048-rotate-image) |
 | [0171-excel-sheet-column-number](https://github.com/Abhijeet878/dsa-cpp/tree/master/0171-excel-sheet-column-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Abhijeet878/dsa-cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Abhijeet878/dsa-cpp/tree/master/0412-fizz-buzz) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Abhijeet878/dsa-cpp/tree/master/0048-rotate-image) |
 | [0219-contains-duplicate-ii](https://github.com/Abhijeet878/dsa-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Abhijeet878/dsa-cpp/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0347-top-k-frequent-elements) |
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Abhijeet878/dsa-cpp/tree/master/0032-longest-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Abhijeet878/dsa-cpp/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
