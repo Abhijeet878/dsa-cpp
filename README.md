@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhijeet878/dsa-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Abhijeet878/dsa-cpp/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Abhijeet878/dsa-cpp/tree/master/0049-group-anagrams) |
 | [0171-excel-sheet-column-number](https://github.com/Abhijeet878/dsa-cpp/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Abhijeet878/dsa-cpp/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Abhijeet878/dsa-cpp/tree/master/0242-valid-anagram) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Abhijeet878/dsa-cpp/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Abhijeet878/dsa-cpp/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/Abhijeet878/dsa-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Abhijeet878/dsa-cpp/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0347-top-k-frequent-elements) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Abhijeet878/dsa-cpp/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Abhijeet878/dsa-cpp/tree/master/0242-valid-anagram) |
 | [0324-wiggle-sort-ii](https://github.com/Abhijeet878/dsa-cpp/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/0347-top-k-frequent-elements) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Abhijeet878/dsa-cpp/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Abhijeet878/dsa-cpp/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Abhijeet878/dsa-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Abhijeet878/dsa-cpp/tree/master/0242-valid-anagram) |
