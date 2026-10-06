@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Abhijeet878/dsa-cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Abhijeet878/dsa-cpp/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhijeet878/dsa-cpp/tree/master/0451-sort-characters-by-frequency) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhijeet878/dsa-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Array
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Abhijeet878/dsa-cpp/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhijeet878/dsa-cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/Abhijeet878/dsa-cpp/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhijeet878/dsa-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Abhijeet878/dsa-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0456-132-pattern](https://github.com/Abhijeet878/dsa-cpp/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhijeet878/dsa-cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhijeet878/dsa-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Abhijeet878/dsa-cpp/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhijeet878/dsa-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Matrix
 |  |
 | ------- |
