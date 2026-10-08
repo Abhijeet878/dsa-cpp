@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Abhijeet878/dsa-cpp/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhijeet878/dsa-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhijeet878/dsa-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Abhijeet878/dsa-cpp/tree/master/1021-remove-outermost-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Abhijeet878/dsa-cpp/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Abhijeet878/dsa-cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhijeet878/dsa-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Abhijeet878/dsa-cpp/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Abhijeet878/dsa-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhijeet878/dsa-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Abhijeet878/dsa-cpp/tree/master/1021-remove-outermost-parentheses) |
 ## Matrix
 |  |
 | ------- |
