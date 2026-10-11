@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Abhijeet878/dsa-cpp/tree/master/0922-sort-array-by-parity-ii) |
 | [1288-remove-covered-intervals](https://github.com/Abhijeet878/dsa-cpp/tree/master/1288-remove-covered-intervals) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhijeet878/dsa-cpp/tree/master/2553-separate-the-digits-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhijeet878/dsa-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhijeet878/dsa-cpp/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhijeet878/dsa-cpp/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -275,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Abhijeet878/dsa-cpp/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Abhijeet878/dsa-cpp/tree/master/0054-spiral-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
