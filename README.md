@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abhijeet878/dsa-cpp/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Abhijeet878/dsa-cpp/tree/master/0048-rotate-image) |
 | [0171-excel-sheet-column-number](https://github.com/Abhijeet878/dsa-cpp/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Abhijeet878/dsa-cpp/tree/master/0268-missing-number) |
@@ -280,4 +281,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhijeet878/dsa-cpp/tree/master/2778-sum-of-squares-of-special-elements) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Abhijeet878/dsa-cpp/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Abhijeet878/dsa-cpp/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
