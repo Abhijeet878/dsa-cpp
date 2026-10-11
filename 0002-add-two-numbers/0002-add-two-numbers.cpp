@@ -12,8 +12,8 @@ class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
 
-            ListNode ans(0)  ; 
-            ListNode* temp = &ans ;
+            ListNode* ans =  new ListNode(0)  ; 
+            ListNode* temp = ans ;
             int curr = 0 ;
 
             while(l1!= NULL || l2!=NULL || curr!=0){
@@ -32,7 +32,7 @@ public:
                     temp = temp->next ; 
             }
 
-            return ans.next  ; 
+            return ans->next  ; 
 
         
     }
